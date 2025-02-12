@@ -1,0 +1,34 @@
+'1':
+  calificacion_servicio: 5
+  ced_cliente: '78586325'
+  ciudad sede: Santuario
+  cod_producto: '45869'
+  cod_venta: '45876'
+  comentario_servicio: Muy buen servicio
+  entrega: En tienda
+  fecha_venta: 23/01/2025
+  nombre_cliente: Henry Arcila
+  producto: Cafetera
+  sede: "San Joaqu\xEDn"
+  tiempo_garantia: 12
+  tipo_garantia: Extendida
+  tipo_tienda: "F\xEDsica"
+  valor_venta: 235000
+  vendedor: Mary Estrada
+'2':
+  Comentario_servicio: Muy mal asesoramiento del vendedor
+  calificacion_servicio: 2
+  ced_cliente: '98583652'
+  ciudad_sede: Santa Rosa
+  cod_producto: '122568'
+  cod_venta: '78546987'
+  entrega: En tienda
+  fecha_venta: 24/12/2024
+  nombre_cliente: Jairo Agudelo M
+  producto: Ventilador
+  sede: Centro
+  tiempo_garantia: 6
+  tipo_garantia: Normal
+  tipo_tienda: "F\xEDsica"
+  valor_venta: 325000
+  vendedor: "Jos\xE9 Arango"

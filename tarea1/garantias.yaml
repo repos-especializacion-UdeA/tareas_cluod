@@ -1,0 +1,16 @@
+'1':
+  calificacion: 3
+  cod_venta: '78546987'
+  comentarios: Demora en la entrega del producto
+  detalle_garantia: Cambio de motor
+  fecha_compra: 24/12/2024
+  tiempo_garantia: 12
+  tipo_garantia: Normal
+'2':
+  calificacion: 5
+  cod_venta: '45876'
+  comentarios: Buen servicio
+  detalle_garantia: Cambio de tablero de control
+  fecha_compra: 23/01/2025
+  tiempo_garantia: 6
+  tipo_garantia: Extendida
