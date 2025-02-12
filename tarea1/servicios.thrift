@@ -1,10 +1,5 @@
 namespace py Servicios
 
-enum TipoEstructura {
-  VENTA = 1,
-  GARANTIA = 2
-}
-
 struct Venta {
 	1: string cod_producto,
 	2: string producto,
@@ -32,9 +27,4 @@ struct Garantia {
 	5: i32 calificacion,
 	6: string comentarios,
 	7: string detalle_garantia
-}
-
-struct Contenedor {
-  1: TipoEstructura tipo,
-  2: binary datos
 }
