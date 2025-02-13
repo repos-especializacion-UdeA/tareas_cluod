@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+package Servicios;
+
+message Venta {
+    string cod_producto = 1;
+    string producto = 2;
+    string cod_venta = 3;
+    string ced_cliente = 4;
+    string nombre_cliente = 5;
+    string fecha_venta = 6;
+    string tipo_garantia = 7;
+    int32 tiempo_garantia = 8;
+    int32 valor_venta = 9;
+    string tipo_tienda = 10;
+    string ciudad_sede = 11;
+    string sede = 12;
+    string entrega = 13;
+    string vendedor = 14;
+    int32 calificacion_servicio = 15;
+    string comentario_servicio = 16;
+}
+
+message Garantia {
+    string cod_venta = 1;
+    string fecha_compra = 2;
+    string tipo_garantia = 3;
+    int32 tiempo_garantia = 4;
+    int32 calificacion = 5;
+    string comentarios = 6;
+    string detalle_garantia = 7;
+}
